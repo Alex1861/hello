@@ -1,3 +1,2 @@
-Privet vsem
 Hello guys
 Hello man
